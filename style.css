@@ -101,4 +101,8 @@ p {
   p {
     text-align: center;
   }
+  .primary-link {
+    display: block;
+    text-align: center;
+  }
 }
